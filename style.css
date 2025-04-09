@@ -4,4 +4,6 @@ body{
 h1{
     color: yellow;
     background-color: rgb(129, 13, 13);
+    border: solid;
+    border-color: yellow;
 }
